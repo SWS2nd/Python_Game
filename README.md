@@ -1,4 +1,4 @@
-# Python_Game
+# Python Game
 **Create Simple Game with Python**
 
 **1. Shooting Game(A game like Gallagher smashing meteorites with missiles)**  

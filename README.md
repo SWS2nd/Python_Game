@@ -7,4 +7,4 @@ cf. [pygame docs link](https://www.pygame.org/docs/)
 
 **1. Snake Game - Pygame_Basic(A game where the length of the snake increases when it eats)**  
 **2. Shooting Game - PyShooting(A game like Gallagher smashing meteorites with missiles)**  
-**3. Car racing Game**  
+**3. Car racing Game - PyRacingCar(A game where you avoid falling cars)**  
